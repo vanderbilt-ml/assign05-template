@@ -35,9 +35,10 @@ Task 2 [10 points] Calculate the financial value of your models based on the fol
 - Intervention success rate is 20% (SR)
 	
 
-| | Actual Leave | Actual Stay|
-| Predicted Leave | TP | FP |
-| Predicted Stay | FN | TN |
+| |Actual Leave|Actual Stay|
+|---|---|---|
+|Predicted Leave|TP|FP|
+|Predicted Stay|FN|TN|
 
 - Compare models on value, find best model according to value metric
 
