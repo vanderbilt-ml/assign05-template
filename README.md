@@ -1,8 +1,9 @@
-# assign05-template CS5265 Foundations of Machine Learning
+## CS5265 Foundations of Machine Learning
 
-**Deadline: Sunday 6/12 11:59PM (CDT) **
+### Week 5 Assignment: Machine Learning Algorithms
 
-## Week 5 Assignment: Machine Learning Algorithms
+**Deadline: Sunday 6/12 11:59PM (CDT)**
+
 
 ### I. Purpose:  
 
