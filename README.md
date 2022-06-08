@@ -23,14 +23,14 @@
 
 #### Part 1 
 
-Task 1 [20 points] Using the starter code provided in this repo to predict whether an employee will leave their current position at the end of the time period (set Leave as the True label), implement the following models with a common pipeline and perform basic model tuning
+Task 1 [20 points] Using the starter code and dataset (the data dictionary is also available) provided in this repo to predict whether an employee will leave their current position at the end of the time period or not (i.e., for your model, make sure to **set Leave as the True label**), implement the following models with a common pipeline and perform basic model tuning
 
 - Logistic regression
 - Random forest
 - Gradient boosting model
 
 Task 2 [10 points] Calculate the financial value of your models based on the following costs and benefits
-- Leave being True class and Stay being False 
+- Again, Leave being the True class and Stay being False 
 - Cost of replacing an employee is $120,000 (RC)
 - Cost of intervention $2,000 used on each employee predicted to leave (IC) 
 - Intervention success rate is 20% (SR)
@@ -41,7 +41,7 @@ Task 2 [10 points] Calculate the financial value of your models based on the fol
 |Predicted Leave|TP|FP|
 |Predicted Stay|FN|TN|
 
-- Compare models on value, find best model according to value metric
+- Compare models on value, what is the best model according to your value metric?
 
 #### Part 2
 
