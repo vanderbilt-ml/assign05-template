@@ -15,7 +15,7 @@
 
 1. The assignment will be evaluated in a total of 60 points
 
-2. The assignment is in the form of a GitHub repository
+2. Use this template to create a new private repository named [section_no]-assign04-[GH_username] in the vanderbilt-ml repo
 
 3.  Work must be completed by the deadline stated above
 
